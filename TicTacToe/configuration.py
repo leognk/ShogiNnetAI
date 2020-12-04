@@ -7,9 +7,9 @@ class Configuration:
         self.load = False
 
         # Files
-        self.folder = "checkpoints/session5/"
+        self.folder = "checkpoints/session1/"
         self.run_manager_file_name = self.folder + "runManager.json"
-        self.nnet_file_name = self.folder + "nnet14200.pt"
+        self.nnet_file_name = self.folder + "nnet.pt"
         self.buffer_file_name = self.folder + "buffer.json"
 
         # Hyperparameters
