@@ -1,6 +1,6 @@
 # ShogiNnetAI
 
-The report of the project is available in the PDF file (written in French). In this project, I developed the shogi engine and the training script of the neural network through self-play using Monte Carlo Tree Search (MCTS).
+The report of the project is available in the PDF file (written in French). In this project, I developed the shogi engine and the neural network training script. The neural network is trained through self-play using Monte Carlo Tree Search (MCTS).
 
 This project aimed to design an AI capable of playing shogi, modeled after DeepMind's AlphaZero. AlphaZero is an AI that can play Go, chess and shogi, achieving superhuman performance. It combines Monte Carlo Tree Search with neural networks and is trained through unsupervised self-play, only relying on the game's rules. The AI independently learns strategies solely through self-play.
 
